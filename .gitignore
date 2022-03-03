@@ -3,6 +3,7 @@ Debug/
 *.sln
 *.user
 *.filters
+*.vcxproj
 *.pdf
 *.doc
 
