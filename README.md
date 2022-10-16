@@ -75,25 +75,25 @@ char in[]={'D','B','G','E','H','A','C','F','I'};   // 中序序列
 
 ###  由先序和中序序列构造二叉树
 
-<img src="https://gitee.com/Kev1n9/img/raw/master/pic2/202202261403499.png" alt="1" style="zoom: 67%;" />
+<img src="https://typora-picgo-outis.oss-cn-shanghai.aliyuncs.com/img/202210161904436.png" alt="1" style="zoom: 67%;" />
 
 ###  在D处插入新元素Z后求其先序序列和中序序列
 
-<img src="https://gitee.com/Kev1n9/img/raw/master/pic2/202202261405659.png" alt="2" style="zoom: 50%;" />
+<img src="https://typora-picgo-outis.oss-cn-shanghai.aliyuncs.com/img/202210161904661.png" alt="2" style="zoom: 50%;" />
 
-<img src="https://gitee.com/Kev1n9/img/raw/master/pic2/202202261405474.png" alt="3" style="zoom:50%;" />
+<img src="https://typora-picgo-outis.oss-cn-shanghai.aliyuncs.com/img/202210161904822.png" alt="3" style="zoom:50%;" />
 
 ###  求此时二叉树的结点个数和二叉树的高度
 
-<img src="https://gitee.com/Kev1n9/img/raw/master/pic2/202202261407382.png" alt="4" style="zoom:50%;" />
+<img src="https://typora-picgo-outis.oss-cn-shanghai.aliyuncs.com/img/202210161905994.png" alt="4" style="zoom:50%;" />
 
 ###  求此时二叉树的叶子结点个数
 
-<img src="https://gitee.com/Kev1n9/img/raw/master/pic2/202202261409780.png" alt="5" style="zoom:50%;" />
+<img src="https://typora-picgo-outis.oss-cn-shanghai.aliyuncs.com/img/202210161905051.png" alt="5" style="zoom:50%;" />
 
 ###  在C结点处插入新元素X并求此时叶子结点个数
 
-<img src="https://gitee.com/Kev1n9/img/raw/master/pic2/202202261412983.png" alt="6" style="zoom:50%;" />
+<img src="https://typora-picgo-outis.oss-cn-shanghai.aliyuncs.com/img/202210161905768.png" alt="6" style="zoom:50%;" />
 
 
 
